@@ -1,10 +1,9 @@
 # Feed Reader Testing Project
-Learned how to using the testing suite Jasmine. Required to write test specs in Jasmine,
+Learnt how to using the testing suite Jasmine. Required to write test specs in Jasmine.
 
 
 ## To Run the Application
 * Download the zip file and click on index.html. Tests appear at the bottom of the page.
-
 * Alternatively clone this repository 
 
 
